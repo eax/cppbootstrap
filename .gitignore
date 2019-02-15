@@ -3,6 +3,16 @@
 bin/
 build/
 docs/
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+src/Makefile
+test/Makefile
+thirdparty/Makefile
+thirdparty/*/Makefile
+
+#VSCode related
+.vscode
 
 # Vagrant
 .vagrant/
